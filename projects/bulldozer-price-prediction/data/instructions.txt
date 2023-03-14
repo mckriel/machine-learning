@@ -1,0 +1,5 @@
+## Prepare the dataset
+
+1. Download the datasets: https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip
+2. Extract the data into the data folder.
+3. Path to the data extracted data from the root directory should now be: data/bluebook-for-bulldozers/
